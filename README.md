@@ -4,10 +4,10 @@ This application is a blank project for create other apps using simple token aut
 
 ### Getting Started
 <pre>
-  git clone https://github.com/acmesquita/blank-api-with-knock/ api
-  cd api/
-  bunble install
-  rails s
+  $ git clone https://github.com/acmesquita/blank-api-with-knock/ api
+  $ cd api/
+  $ bunble install
+  $ rails s
 </pre>
 
 ### Steps to creation and authtication an new user
